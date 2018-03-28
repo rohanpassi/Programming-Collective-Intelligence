@@ -156,7 +156,3 @@ print(sim_euclidean(critics, 'Lisa Rose', 'Gene Seymour'))
 # print(sim_pearson(critics, 'Lisa Rose', 'Gene Seymour'))
 # print(topMatches(critics, 'Toby', n=3, similarity=sim_euclidean))
 # print(topMatches(critics, 'Toby', n=3))
-
-
-
-KWaG+iLVCA1wV2/EM1k+Wqltd0FNg/aRtPS55fvg
